@@ -1,4 +1,6 @@
-# COMP4478-UnityProjects
+GitHub URL: https://github.com/tylerFretz/COMP4478-UnityProjects/edit/master/README.md  
+
+Unity Version: 2021.3.20f1
 
 ## Exercise 2
 A 2D game where the player controls a fishing net as they try to catch fish moving across the screen.
